@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="28b37699-cf1b-453c-9801-39ef9c1269fc" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1skxGnbkHvnl0FHf9uVJehAkhTs" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+  </component>
+  <component name="RunManager" selected="Application.Main">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="protocol.Main" />
+      <module name="simple protocol" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="test" type="GroovyScriptRunConfiguration" factoryName="Groovy" temporary="true">
+      <module name="simple protocol" />
+      <setting name="path" value="file://$PROJECT_DIR$/src/protocol/test.groovy" />
+      <setting name="vmparams" value="" />
+      <setting name="params" value="" />
+      <setting name="workDir" value="file://$PROJECT_DIR$/src/protocol" />
+      <setting name="debug" value="false" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Groovy.test" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="28b37699-cf1b-453c-9801-39ef9c1269fc" name="Default Changelist" comment="" />
+      <created>1621430295450</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1621430295450</updated>
+      <workItem from="1621430297626" duration="7358000" />
+      <workItem from="1621447027639" duration="5000" />
+      <workItem from="1621485967094" duration="7871000" />
+      <workItem from="1621526480294" duration="746000" />
+      <workItem from="1621527247381" duration="2057000" />
+      <workItem from="1621655242646" duration="25700000" />
+      <workItem from="1621696884088" duration="7175000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="233" y="0" key="#Plugins" timestamp="1621527231974">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="233" y="0" key="#Plugins/0.0.1280.680@0.0.1280.680" timestamp="1621527231974" />
+    <state x="421" y="81" key="FileChooserDialogImpl" timestamp="1621496973064">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="421" y="81" key="FileChooserDialogImpl/0.0.1280.680@0.0.1280.680" timestamp="1621496973064" />
+    <state width="1237" height="163" key="GridCell.Tab.0.bottom" timestamp="1621704200426">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="163" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1621704200426" />
+    <state width="1237" height="163" key="GridCell.Tab.0.center" timestamp="1621704200425">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="163" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1621704200425" />
+    <state width="1237" height="163" key="GridCell.Tab.0.left" timestamp="1621704200425">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="163" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1621704200425" />
+    <state width="1237" height="163" key="GridCell.Tab.0.right" timestamp="1621704200425">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="163" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1621704200425" />
+    <state width="1237" height="278" key="GridCell.Tab.1.bottom" timestamp="1621701201875">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="278" key="GridCell.Tab.1.bottom/0.0.1280.680@0.0.1280.680" timestamp="1621701201875" />
+    <state width="1237" height="278" key="GridCell.Tab.1.center" timestamp="1621701201875">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="278" key="GridCell.Tab.1.center/0.0.1280.680@0.0.1280.680" timestamp="1621701201875" />
+    <state width="1237" height="278" key="GridCell.Tab.1.left" timestamp="1621701201875">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="278" key="GridCell.Tab.1.left/0.0.1280.680@0.0.1280.680" timestamp="1621701201875" />
+    <state width="1237" height="278" key="GridCell.Tab.1.right" timestamp="1621701201875">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="278" key="GridCell.Tab.1.right/0.0.1280.680@0.0.1280.680" timestamp="1621701201875" />
+    <state x="121" y="0" key="SettingsEditor" timestamp="1621496839977">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="121" y="0" key="SettingsEditor/0.0.1280.680@0.0.1280.680" timestamp="1621496839977" />
+    <state x="337" y="164" key="com.intellij.ide.util.TipDialog" timestamp="1621655247854">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="337" y="164" key="com.intellij.ide.util.TipDialog/0.0.1280.680@0.0.1280.680" timestamp="1621655247854" />
+    <state x="336" y="77" width="609" height="526" key="find.popup" timestamp="1621693435296">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="336" y="77" width="609" height="526" key="find.popup/0.0.1280.680@0.0.1280.680" timestamp="1621693435296" />
+    <state x="91" y="0" key="new project wizard" timestamp="1621496975649">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="91" y="0" key="new project wizard/0.0.1280.680@0.0.1280.680" timestamp="1621496975649" />
+    <state x="303" y="1" width="672" height="678" key="search.everywhere.popup" timestamp="1621692309936">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="303" y="1" width="672" height="678" key="search.everywhere.popup/0.0.1280.680@0.0.1280.680" timestamp="1621692309936" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$USER_HOME$/Downloads/plan (1).groovy</url>
+          <line>4</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
